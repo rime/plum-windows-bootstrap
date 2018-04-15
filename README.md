@@ -18,4 +18,4 @@ This repository contains a minimal Windows bootstrap script from [/plum/][], and
 Then follow instructions in [/plum/:README][readme] on how to use the package installer.
 
   [download]: https://github.com/rime/plum-windows-bootstrap/archive/master.zip
-  [readme]: https://github.com/rime/plum#windows-bootstrap-script
+  [readme]: https://github.com/rime/plum#windows
